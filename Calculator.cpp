@@ -4,7 +4,6 @@ int add(int a, int b)
 {
     //updated
     return a + b + 30;
-
 }
 int multiply(int a, int b)
 {
