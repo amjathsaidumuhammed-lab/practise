@@ -2,8 +2,8 @@
 
 int add(int a, int b)
 {
-    //updated here
-    return a + b+ 20;
+    //updated
+    return a + b + 30;
 }
 int multiply(int a, int b)
 {
