@@ -15,7 +15,7 @@ double divide(int a, int b)
 }
 int main()
 {
-    std::cout << "10 + 20 = " << add(10, 20)<< std::endl;
-    std::cout << "10 * 20 = "<< multiply(10, 20) << std::endl;
+    std::cout << "10 + 20 === " << add(10, 20)<< std::endl;
+    std::cout << "10 * 20 === "<< multiply(10, 20) << std::endl;
     return 0;
 }
