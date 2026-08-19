@@ -7,7 +7,11 @@ int add(int a, int b)
 }
 int multiply(int a, int b)
 {
-    return a * b * 20;
+    return a * b * 30;
+}
+double divide(int a, int b)
+{
+    return a / b;
 }
 int main()
 {
