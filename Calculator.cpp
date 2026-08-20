@@ -15,7 +15,7 @@ double divide(int a, int b)
 }
 double subtract(int a, int b)
 {
-    return a - b - 1;
+    return a - b - 70;
 }
 int main()
 {
