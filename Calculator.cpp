@@ -3,7 +3,7 @@
 int add(int a, int b)
 {
     //updated
-    return a + b + 20;
+    return a + b + 50;
 }
 int multiply(int a, int b)
 {
