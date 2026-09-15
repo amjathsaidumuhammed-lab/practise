@@ -3,7 +3,11 @@
 int add(int a, int b)
 {
     //updated
+<<<<<<< HEAD
+    return a + b + 130;
+=======
     return a + b + 50;
+>>>>>>> origin/main
 }
 int multiply(int a, int b)
 {
